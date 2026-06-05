@@ -136,11 +136,19 @@ A comprehensive sentiment analysis of **355,807+ Facebook Mobile App reviews** u
 - `facebook_sentiment_analysis.py` — Main analysis script
 - `sentiment_wordclouds.png` — Generated visualization
 - `sentiment_summary.csv` — Summary statistics
+## Author
+**Shreya Tarafdar**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Riddhi712)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shreya-tarafdar-726b7430a/)
 
 ### How to Run
 ```bash
 # Install dependencies
 pip install pandas matplotlib wordcloud numpy
 
-# Run the analysis
-python facebook_sentiment_analysis.py
+
+
+
+
+---
