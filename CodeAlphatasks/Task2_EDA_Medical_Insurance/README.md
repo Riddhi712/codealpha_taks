@@ -79,7 +79,7 @@ This project delivers a comprehensive exploratory data analysis (EDA) of a medic
 | **Mean Medical Cost** | $17,913 | Higher than median due to right skew |
 | **Median Medical Cost** | $16,362 | More representative central tendency |
 | **Age Distribution** | Uniform (18-65) | Evenly distributed across working ages |
-| **BMI Peak** | ~25-30 | Centered in overweight category |
+| **BMI Peak** | 25-30 | Centered in overweight category |
 | **Income Floor** | $18,000 | Artificial minimum affecting 3.5% of records |
 
 **Critical Findings:**
