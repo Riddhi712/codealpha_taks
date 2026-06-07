@@ -13,8 +13,8 @@ This project analyzes **355,807+ Facebook app reviews** to understand user senti
 ### Key Insights
 
 - **Overall Sentiment**: **Mildly Positive** (Average Rating: **3.89/5**)
-- **Positive Reviews**: ~70.3%
-- **Negative Reviews**: ~24.1%
+- **Positive Reviews**: 70.3%
+- **Negative Reviews**: 24.1%
 - **Recent Trend (May 2026)**: Strong **negative shift** — users are increasingly frustrated.
 
 ---
